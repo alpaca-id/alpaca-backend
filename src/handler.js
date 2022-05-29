@@ -1,6 +1,6 @@
 const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
-const books = require('./books');
+const books = require('./cerita/books.json');
 const tf = require("@tensorflow/tfjs");
 
 

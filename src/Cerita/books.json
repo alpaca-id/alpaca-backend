@@ -3,7 +3,8 @@
 	"title" : "Monyet dan Unta peniru",
 	"story"	: "Suatu hari, ada suatu perayaan di hutan. Perayaan itu untuk merayakan terpilihnya Singa sebagai raja hutan. Monyet yang pandai menari di suruh maju oleh Singa. Monyet segera meliuk-liukkan badannya dan menghibur semua hewan dengan tariannya yang indah. Semua orang memujinya. Unta merasa iri dan merasa bisa menirukan tarian Monyet. Tanpa disuruh, Unta maju dan menirukan gaya menari Monyet.  Namun, tubuhnya yang besar dan kakinya yang panjang, membuatnya sulit menari. Bahkan, ia menabrak beberapa hewan disekitarnya. Ia junga hampir mengenai hidung Singa. Semua hewan yang ada di sana merasa jengkel pada Unta. Mereka pun mengusir Unta dan membuangnya kepadang gurun.",
 	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fmonyet-dan-unta-peniru.jpeg?alt=media&token=6d759c43-ca0b-4741-9257-1682de894aa3",
-	"author": "Aesop"
+	"author": "Aesop",
+	"createat" : "1653660367455" 
 	
 },
 {
@@ -11,6 +12,79 @@
 	"title" : "Dongeng anjing yang nakal",
 	"story"	: " Ada seekor anjing yang sangat nakal dan jahat sehingga majikannya mengikatkan sebuah balok yang cukup berat di lehernya agar orang mengetahui kehadiran anjing tersebut dan bisa menghindari anjing itu. Tetapi sang Anjing yang nakal itu sangat bangga akan kalung dan balok kayu itu, dia bahkan berlari-larian sambil menyeret-nyeret balok kayu tersebut dengan ributnya untuk menarik perhatian orang lain. Tetapi tak ada satupun orang yang senang melihat anjing itu. Seekor anjing lain yang melihatnya kemudian berkata 'Kamu seharusnya lebih bijaksana dan berdiam diri di rumah agar orang tidak melihat balok yang dikalungkan di lehermu. Apakah kamu senang bahwa semua orang tahu betapa nakal dan jahatnya kamu?' ",
 	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fanjing-yang-nakal.jpg?alt=media&token=23b165d8-107c-4dfb-8be8-98b3ed9c0ec9",
-	"author": "Aesop"
+	"author": "Aesop",
+	"createat" : "1653660850896"
+	
+},
+{
+	"id"	: "3",
+	"title" : "Dongeng Ayam Yang Berkelahi dan Burung Elang",
+	"story"	: "Di suatu daerah pertanian, hiduplah dua ekor ayam jantan yang saling bermusuhan dan sering berkelahi antara keduanya. Pada suatu hari, mereka memulai pertengkaran dan kembali berkelahi, saling mematuk dan mencakar. Mereka berkelahi terus hingga salah satunya di kalahkan dan lari menjauh ke sudut untuk bersembunyi.Ayam jantan yang memenangkan perkelahian itu dengan bangganya terbang ke atas atap kandang, dan mengkepak-kepakkan sayapnya, berkokok dengan sangat bangga dan kerasnya seolah-olah dia ingin memberi tahukan ke seluruh dunia tentang kemenangannya. Tetapi saat itu seekor burung elang yang terbang di udara mendengar dan akhirnya melihat ayam tersebut di atas atap. Burung elang tersebut akhirnya turun dan menyambar dan menerkam ayam jantan yang jadi pemenang tadi untuk dibawa ke sarangnya.Ayam yang satunya yang tadinya dikalahkan, melihat seluruh kejadian itu dan keluar dari tempat persembunyiannya dan mengambil tempat sebagai pemenang di perkelahian tadi. Jadi pembelajaran yang dapat kita teladani dari dongeng ayam yang berkelahi dan burung elang ini adalah Janganlah bersikap sombong karena kesombongan dapat berakibat keterpurukan.",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fayam-berkelahi-dan-burung-elang.jpg?alt=media&token=b3667bcf-f3d0-47b9-ad09-7c14d5371561",
+	"author": "Aesop",
+	"createat" : "1653660850896"
+	
+},
+{
+	"id"	: "4",
+	"title" : "Dongeng Babi Hutan dan Rubah",
+	"story"	: "Seekor babi hutan sedang sibuk mengasah taringnya pada sebuah batang pohon. Bertepatan dengan saat itu, secara kebetulan lewatlah seekor rubah. Rubah yang suka mengolok-olok teman-teman dan tetangganya, langsung mengoloknya dengan berpura-pura melihat kesana-kemari, seolah-olah takut pada musuh yang tidak terlihat. Tetapi sang Babi Hutan tidak memperdulikan tingkah sang Rubah dan tetap melanjutkan pekerjaannya.  'Mengapa engkau melakukan hal tersebut?' kata sang Rubah dengan senyum mengejek. 'Saya tidak melihat ada musuh dan bahaya di sini.' 'Kamu benar, memang sekarang tidak ada musuh dan bahaya yang mengancam' jawab sang Babi Hutan, 'tetapi ketika musuh benar-benar datang, saya tidak akan sempat mengasah taring saya lagi seperti sekarang. Saat musuh dan bahaya datang ke sini nantinya, setidak-tidaknya saya telah memiliki senjata untuk menghadapinya.' Jadi pembelajaran yang dapat kita teladani dari dongeng babi hutan dan rubah ini adalah Selalulah siap siaga dan waspada. ",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbabi-hutan-dan-rubah.jpg?alt=media&token=31548139-d197-430b-887b-a750ff2e9104",
+	"author": "Aesop",
+	"createat" : "1653661329197"
+	
+},
+{
+	"id"	: "5",
+	"title" : "Dongeng Biji Pohon Oak Dan Labu",
+	"story"	: " Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya saya tidak perlu mengelilingi dunia untuk mencarinya, Saya dapat menemukan kesempurnaan itu di dalam sebuah labu.Seorang petani yang tinggal di desa suatu saat berpikir tentang besarnya sebuah labu dan kecilnya batang dimana labu tersebut tumbuh. 'Apa yang Tuhan pikirkan kira-kira ya?' katanya pada diri sendiri. 'Tuhan mungkin menumbuhkan labu tersebut di batang yang kurang sesuai. Seandainya saya yang menciptakan labu ini, saya akan menumbuhkan dan menggantungnya di pohon oak. Seharusnya disanalah tempat yang tepat. Buah yang besar, sepantasnya berasal dari pohon yang besar! sayang sekali!' katanya kepada diri sendiri, 'Sebagai contoh, biji pohon oak ini, yang sekecil jari tangan saya, seharusnya di gantungkan pada batang labu yang kurus ini.' Karena terlalu banyak berpikir dan berangan-angan, petani tersebut menjadi mengantuk dan berbaring di bawah pohon Oak, dan tidak berapa lama kemudian, dia tertidur dengan pulas.Saat itulah sebuah biji pohon oak jatuh tepat di atas hidungnya. Petani itu terkejut dan terbangun dari tidurnya sambil mengusap hidungnya yang kesakitan dan mengeluarkan darah. 'Aduh.. aduh..!' teriaknya, 'Hidungku berdarah, bagaimana seandainya sesuatu yang lebih berat jatuh dari pohon ini dan menimpa kepala saya, bagaimana seandainya biji pohon oak ini adalah sebuah labu? Saya tadinya meragukan ciptaanNya, sekarang saya telah mengerti semuanya dengan sempurna.'  Lalu sang Petani itupun memuji dan bersyukur kepada Tuhan sambil berjalan pulang ke rumahnya. Jadi pembelajaran yang dapat kita teladani dari dongeng biji pohon oak dan labu ini adalah Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya kita hanya perlu melihat, mendengar dan merasakan kebesaran-NYA. ",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbiji-pohon-oak-dan-labu.jpg?alt=media&token=e6e1f3a9-e6b6-4f1a-89ed-9ef10a7b3ecc",
+	"author": "Jean de La Fontaine",
+	"createat" : "1653661329197"
+	
+},
+{
+	"id"	: "6",
+	"title" : "Dongeng Banteng Yang Berkelahi dan Katak di Rawa-rawa",
+	"story"	: "Dua ekor banteng berkelahi dengan sengitnya di dekat suatu rawa-rawa. Katak tua yang hidup di rawa-rawa menjadi gemetar ketakutan saat melihat perkelahian sengit itu. 'Apa yang kamu takutkan?' kata katak yang masih muda. 'Tidakkah kamu melihat,' balas sang Katak Tua, 'bahwa banteng yang kalah akan terdorong menuju ke rawa-rawa di sini, dan kita semua akan terinjak sampai masuk ke dalam lumpur?' Benar apa kata sang Katak Tua itu, tidak berapa lama kemudian, banteng yang kalah terdorong sampai ke rawa-rawa, dan telapak kakinya yang besar dan keras tanpa sengaja menginjak beberapa katak di rawa-rawa tersebut hingga tewas. Jadi pembelajaran yang dapat kita teladani dari dongeng banteng yang berkelahi dan katak di rawa-rawa ini adalah Hindarilah perkelahian dan janganlah terlibat dalam perkelahian karena damai itu jauh lebih indah. ",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbanteng-berkelahi-dan-katak-di-rawa-rawa.jpg?alt=media&token=e902873b-59a7-4a86-9c27-256d883feeb0",
+	"author": "Aesop",
+	"createat" : "1653662400315"
+	
+},
+{
+	"id"	: "7",
+	"title" : "Dongeng Anak Kambing dan Serigala",
+	"story"	: "Seekor anak kambing yang sangat lincah telah ditinggalkan oleh penggembalanya di atas atap jerami kandang untuk menghindari anak kambing itu dari bahaya. Anak kambing itu mencari rumput di pinggir atap, dan saat itu dia melihat seekor serigala dan memandang serigala itu dengan raut muka yang penuh dengan ejekan dan dengan perasaan yang penuh kemenangan, dia mulai mengejek serigala tersebut, walaupun pada saat itu dia tidak ingin mengejek sang Serigala, tetapi karena dia merasa serigala tersebut tidak akan dapat naik ke atas atap dan menangkapnya, timbullah keberaniannya untuk mengejek. Serigala itupun menatap anak kambing itu dari bawah, 'Saya mendengarmu,' kata sang Serigala, 'dan saya tidak mendendam pada apa yang kamu katakan atau kamu lakukan ketika kamu diatas sana, karena itu adalah atap yang berbicara dan bukan kamu.'  Jadi pembelajaran yang dapat kita teladani dari dongeng anak kambing dan serigala ini adalah Janganlah kamu mengatakan sesuatu yang buruk atau kasar kepada siapapun.",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fanak-kambing-dan-serigala.jpg?alt=media&token=ad13f406-38c1-4abf-8c02-01f9057ac3fa",
+	"author": "Aesop",
+	"createat" : "1653662400315"
+	
+},
+{
+	"id"	: "8",
+	"title" : "Dongeng Androcles dan Seekor Singa",
+	"story"	: "Dahulu kala di Kota Roma, hiduplah seorang budak bernama Androcles yang melarikan diri dari majikannya dan menyembunyikan diri di dalam hutan. Dia berjalan tak tentu arah di hutan tersebut cukup lama, hingga dia merasa kelelahan dan kelaparan serta mulai berputus asa. Sesaat kemudian, dia mendengar suara seekor singa di dekatnya yang mengaum dengan keras. Androcles yang kelelahan, bangkit dan bergegas untuk pergi karena rasa takutnya kepada singa, tetapi saat dia berjalan menembus semak-semak dia tersandung pada akar pohon dan terjatuh. Ketika dia mencoba untuk bangkit kembali, dia melihat seekor singa yang sangat besar datang ke arahnya, berjalan terpincang-pincang dengan tiga kakinya sambil mengangkat satu kakinya ke depan. Androcles yang malang menjadi putus asa karena dia tidak memiliki kekuatan lagi untuk bangkit dan melarikan diri pada saat sang singa besar berjalan menuju ke arahnya. Ketika hewan besar itu tiba di depannya, Androcles ketakutan setengah mati. Akan tetapi singa tersebut tidak menyerangnya, dan hanya mengeluh serta mendesah sambil menatap Androcles. Androcles pun melihat bahwa kaki kanan yang dijulurkan oleh sang Singa, berlumuran darah dan bengkak. Androcles mencoba melihat lebih dekat, dan saat itu dia melihat sebuah duri besar tertusuk pada kaki kanan sang Singa.  Androcles mengumpulkan keberanian dan menarik keluar duri yang menusuk cakar singa, yang saat itu langsung meraung dengan keras karena kesakitan. Tetapi tidak lama setelah itu, sepertinya sang Singa menjadi lebih lega dan tenang, bahkan sang Singa pun menggosok-gosokkan kepala dan badannya ke Androcles sebagai tanda kasih sayang dan terima kasih. Apa yang ditakutkan oleh Androcles menjadi sirna, sang Singa bukan hanya tidak memangsa dirinya, tetapi dalam waktu tidak berapa lama, singa tersebut pergi dan kembali sambil membawa rusa muda yang berhasil ditangkapnya ke hadapan Androcles, sehingga Androcles bisa mendapatkan makanan di saat itu.  Untuk beberapa waktu, sang Singa terus membawa hewan hutan yang dimangsanya untuk Androcles yang semakin hari semakin akrab dengan hewan besar tersebut. Namun suatu hari, sejumlah prajurit memasuki hutan dan menemukan Androcles. Ketika itu, dia tidak dapat menjelaskan apa yang dia perbuat di dalam hutan. Para prajurit tersebut menahan Androcles, dan membawanya kembali ke kota di mana dia melarikan diri. Di sanalah tuannya mengenali dia dan membawanya ke depan pihak berwenang. Dia pun dijatuhi hukuman mati karena telah melarikan diri dari majikannya. Pada zaman tersebut, telah menjadi kebiasaan bagi bangsa Roma untuk memasukkan tahanan yang akan dihukum mati, seperti para pembunuh dan penjahat lainnya, ke dalam suatu arena besar bersama dengan seekor singa, sehingga di saat para penjahat menerima hukuman matinya di arena, masyarakat bisa menonton pertarungan antara mereka dan binatang buas tersebut.  Androcles juga dijatuhi hukuman mati, dan akan tempatkan di arena tarung beserta seekor singa. Pada hari yang telah ditentukan, dia pun ditempatkan di arena sendirian dan hanya berbekal tombak untuk melindungi dirinya dari dari serangan singa yang buas. Kaisar yang berada di barisan kursi untuk kalangan istana, memberikan sinyal untuk melepaskan singa dan memulai pertarungan. Saat sang Singa keluar dari kandangnya dan mendekati Androcles, apa yang terjadi? Bukannya sang Singa melompat ke atasnya untuk menerkam, tetapi sang Singa malah menunjukkan sikap hormat kepadanya, menggosok-gosokkan kepalanya pada Androcles yang dengan segera membelai kepala sang Singa. Ternyata singa tersebut adalah singa yang pernah bertemu dengan Androcles di dalam hutan.  Kaisar yang terkejut melihat perilaku aneh dari sang Singa, memanggil Androcles untuk datang kepadanya dan bertanya bagaimana hal itu bisa terjadi, sehingga singa yang terkenal ganas, menjadi jinak di hadapan Androcles. Androcles pun menceritakan semua yang telah terjadi terhadapnya kepada sang Kaisar, dan bagaimana singa itu menunjukkan rasa terima kasihnya setelah dia mencabut duri yang menusuk di telapak kakinya. Sang Kaisar pun mengampuni Androcles dan memerintahkan majikan Androcles untuk membebaskan Androcles dari perbudakan, sementara sang Singa pun dibawa kembali ke hutan untuk dilepaskan sehingga sang Singa bisa menikmati kebebasannya kembali.  Jadi pembelajaran yang dapat kita teladani dari dongeng Androcles dan seekor singa ini adalah Berbuat baiklah selalu kepada siapapun juga, karena dengan berbuat baik akan memberi dampak yang baik juga.",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fandroceles-dan-seekor-singa.jpg?alt=media&token=77513af4-5282-46fe-8169-da51f631e36f",
+	"author": "Joseph Jacobs",
+	"createat" : "1653662424347"
+	
+},
+{
+	"id"	: "9",
+	"title" : "Dongeng Angsa dan Telur Emas",
+	"story"	: "Pada zaman dahulu kala, ada seorang petani yang memiliki seekor angsa yang sangatlah cantik, dimana setiap hari ketika petani tersebut mendatangi kandang angsa, sang Angsa telah menelurkan sebuah telur emas yang berkilauan. Petani tersebut mengambil dan membawa telur-telur emas tersebut ke pasar dan menjualnya sehingga dalam waktu yang singkat petani tersebut mulai menjadi kaya. Tetapi tidak lama kemudian keserakahan dan ketidak-sabaran petani itu terhadap sang Angsa muncul karena sang Angsa hanya memberikan sebuah telur setiap hari. Sang Petani merasa dia tidak akan cepat menjadi kaya dengan cara begitu. Suatu hari, setelah menghitung uangnya, sebuah gagasan muncul di kepala petani, gagasan bahwa dia akan mendapatkan semua telur emas sang Angsa sekaligus dengan cara memotong sang Angsa. Tetapi ketika gagasan tersebut dilaksanakan, tidak ada sebuah telur yang dapat dia temukan, dan angsanya yang sangat berharga terlanjur mati dipotong.  Jadi pembelajaran yang dapat kita teladani dari dongeng angsa dan telur emas ini adalah Barang siapa yang telah memiliki sesuatu dengan berlimpah, tetapi serakah dan menginginkan yang lebih lagi, akan kehilangan semua yang dimilikinya. Maka bersyukurlah dengan segala sesuatu yang kita miliki.",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fangsa-dan-telur-emas.jpg?alt=media&token=a4f256da-16e3-431d-90ba-d128e717c222",
+	"author": "Aesop",
+	"createat" : "1653662424347"
+	
+},
+{
+	"id"	: "10",
+	"title" : "Dongeng Burung Gagak dan Sebuah Kendi",
+	"story"	: "Pada suatu musim yang sangat kering, dimana saat itu burung-burungpun sangat sulit mendapatkan sedikit air untuk diminum, seekor burung gagak menemukan sebuah kendi yang berisikan sedikit air. Tetapi kendi tersebut merupakan sebuah kendi yang tinggi dengan leher kendi sempit. Bagaimanapun burung gagak tersebut berusaha untuk mencoba meminum air yang berada dalam kendi, dia tetap tidak dapat mencapainya. Burung gagak tersebut hampir merasa putus asa dan merasa akan meninggal karena kehausan. Kemudian tiba-tiba sebuah ide muncul dalam benaknya. Dia lalu mengambil kerikil yang ada di samping kendi, kemudian menjatuhkannya ke dalam kendi satu persatu. Setiap kali burung gagak itu memasukkan kerikil ke dalam kendi, permukaan air dalam kendipun berangsur-angsur naik dan bertambah tinggi hingga akhirnya air tersebut dapat di capai oleh sang burung Gagak.  Jadi pembelajaran yang dapat kita teladani dari dongeng burung gagak dan sebuah kendi ini adalah Janganlah putus asa dan berusahalah dengan pengetahuan dan akal yang kita miliki.",
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fburung-gagak-dan-sebuah-kendi.jpg?alt=media&token=d62f0fea-2e9d-413f-ae08-033d68cfae51",
+	"author": "Aesop",
+	"createat" : "1653662445513"
 	
 }]
