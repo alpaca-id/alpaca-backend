@@ -2,6 +2,9 @@ const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
 const tf = require("@tensorflow/tfjs");
+const textToSpeech = require('@google-cloud/text-to-speech');
+const fs = require('fs');
+const util = require('util');
 
 
 const getAllBooksHandler = (request, h) => {
@@ -29,8 +32,8 @@ const getAllBooksHandler = (request, h) => {
       'image': book.image,
       'author': book.author,
     })),
-    
   },
+ 
   });
   response.code(200);
   return response;
@@ -49,6 +52,7 @@ const getBookByIdHandler = (request, h) => {
         book,
       },
     };
+    
   }
   const response = h.response({
     status: 'fail',
@@ -73,8 +77,6 @@ async function Predict(data){
   input = input.expandDims(0);
   return model.predict(input).dataSync();
 };
-
-
 
   
 module.exports = {  
