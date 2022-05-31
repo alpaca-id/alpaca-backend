@@ -1,9 +1,8 @@
 const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
-const tf = require("@tensorflow/tfjs");
-
-
+const Predict = require('./Predict.js');
+const converttoMP3 = require('./TextToSpeech.js');
 
 const getAllBooksHandler = (request, h) => {
   
@@ -47,19 +46,14 @@ const getBookByIdHandler = (request, h) => {
 
   if (book !== undefined) {
 
-    audio = book.story;
+    //audio = book.audio;
 
-    let convert = [];
-
-    audio.forEach((e) => {
-      convert.push(e);
-    });
+    //suara = converttoMP3('Jericho Ganteng') ;
 
     return {
       status: 'berhasil',
       data: {
         book,
-        convert,
       },
     };
     
@@ -80,21 +74,13 @@ const upImage = () =>{
 
 }
 
-const getPredict = (request, response, h) => {
+const getPredict = (request, h) => {
 
-  response.code(200);
-  return response;
+  h.code(200);
+  return h;
 };
 
-async function Predict(data){
-  let model = await tf.loadLayersModel(
-    "https://firebasestorage.googleapis.com/v0/b/alpaca-api-6323d.appspot.com/o/model.json?alt=media&token=04146ffc-3e21-4413-9c13-07ff87c0805a"
-  );
-  
-  let input = tf.tensor1d(data);
-  input = input.expandDims(0);
-  return model.predict(input).dataSync();
-};
+
 
   
 module.exports = {  

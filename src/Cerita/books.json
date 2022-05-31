@@ -2,27 +2,41 @@
 	"id"	: "1",
 	"title" : "Monyet dan Unta peniru",
 	"story"	: [{
-						"line1" : "Suatu hari, ada suatu perayaan di hutan. Perayaan itu untuk merayakan terpilihnya Singa sebagai raja hutan",
+						"line1" : "Suatu hari, ada perayaan di hutan. Perayaan itu untuk merayakan terpilihnya Singa sebagai raja hutan",
 						"line2" : "Monyet yang pandai menari di suruh maju oleh Singa. Monyet segera meliuk-liukkan badannya dan menghibur semua hewan dengan tariannya yang indah.",
 						"line3" : "Semua orang memujinya. Unta merasa iri dan merasa bisa menirukan tarian Monyet. Tanpa disuruh, Unta maju dan menirukan gaya menari Monyet.",
 						"line4" : "Namun, tubuhnya yang besar dan kakinya yang panjang, membuatnya sulit menari. Bahkan, ia menabrak beberapa hewan disekitarnya.",
-						"line5" : "Ia juga hampir mengenai hidung Singa. Semua hewan yang ada di sana merasa jengkel pada Unta. Mereka pun mengusir Unta dan membuangnya kepadang gurun." 
+						"line5" : "Ia juga hampir mengenai hidung Singa. Semua hewan yang ada di sana merasa jengkel pada Unta. Mereka pun mengusir Unta dan membuangnya ke padang gurun." 
 					}],   
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fmonyet-dan-unta-peniru.jpeg?alt=media&token=6d759c43-ca0b-4741-9257-1682de894aa3",
+	"audio"	: [{
+						"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fline1-monyet-dan-unta-peniru.mp3?alt=media&token=5c15cd37-fe83-4f21-9989-11dcf6ddc58f",
+						"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fline2-monyet-dan-unta-peniru.mp3?alt=media&token=17f2842f-e5a5-49f9-8818-63eacc144d9d",
+						"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fline3-monyet-dan-unta-peniru.mp3?alt=media&token=cbadefc8-e00a-456b-8953-fdd5ac45e3de",
+						"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fline4-monyet-dan-unta-peniru.mp3?alt=media&token=0a9cf1b9-e305-4051-8a2d-24a106969655",
+						"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fline5-monyet-dan-unta-peniru.mp3?alt=media&token=355acdc6-f058-40e2-b089-987673814b65"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F1-monyet-dan-unta-peniru%2Fmonyet-dan-unta-peniru.jpeg?alt=media&token=2d06f03d-44e2-4027-9deb-416e6f06fcd4",
 	"author": "Aesop",
 	"createat" : "1653660367455" 
+
 	
 },
 {
 	"id"	: "2",
 	"title" : "Dongeng anjing yang nakal",
 	"story"	: [{
-		"line1" : "Ada seekor anjing yang sangat nakal dan jahat sehingga majikannya mengikatkan sebuah balok yang cukup berat di lehernya agar orang mengetahui kehadiran anjing tersebut dan bisa menghindari anjing itu.",
-		"line2" : "Tetapi sang Anjing yang nakal itu sangat bangga akan kalung dan balok kayu itu, dia bahkan berlari-larian sambil menyeret-nyeret balok kayu tersebut dengan ributnya untuk menarik perhatian orang lain.",
-		"line3" : "Tetapi tak ada satupun orang yang senang melihat anjing itu. Seekor anjing lain yang melihatnya kemudian berkata ",
-		"line4" : "\"Kamu seharusnya lebih bijaksana dan berdiam diri di rumah agar orang tidak melihat balok yang dikalungkan di lehermu. Apakah kamu senang bahwa semua orang tahu betapa nakal dan jahatnya kamu?\""
-	}], 
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fanjing-yang-nakal.jpg?alt=media&token=23b165d8-107c-4dfb-8be8-98b3ed9c0ec9",
+						"line1" : "Ada seekor anjing yang sangat nakal dan jahat sehingga majikannya mengikatkan sebuah balok yang cukup berat di lehernya agar orang mengetahui kehadiran anjing tersebut dan bisa menghindari anjing itu.",
+						"line2" : "Tetapi sang Anjing yang nakal itu sangat bangga akan kalung dan balok kayu itu, dia bahkan berlari-larian sambil menyeret-nyeret balok kayu tersebut dengan ributnya untuk menarik perhatian orang lain.",
+						"line3" : "Tetapi tak ada satupun orang yang senang melihat anjing itu. Seekor anjing lain yang melihatnya kemudian berkata ",
+						"line4" : "\"Kamu seharusnya lebih bijaksana dan berdiam diri di rumah agar orang tidak melihat balok yang dikalungkan di lehermu. Apakah kamu senang bahwa semua orang tahu betapa nakal dan jahatnya kamu?\""
+					}], 
+	"audio"	: [{
+						"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F2-anjing-yang-nakal%2Fline1-anjing-yang-nakal.mp3?alt=media&token=c0e21430-4aea-496d-9ded-792b2fe70219",
+						"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F2-anjing-yang-nakal%2Fline2-anjing-yang-nakal.mp3?alt=media&token=0c0f038c-d5eb-4745-8d87-7fe3eed8f090",
+						"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F2-anjing-yang-nakal%2Fline3-anjing-yang-nakal.mp3?alt=media&token=a1757a54-8e73-4e24-a375-f009f1ea7e40",
+						"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F2-anjing-yang-nakal%2Fline4-anjing-yang-nakal.mp3?alt=media&token=63c9d93e-6b19-45d9-9494-b9a861b7f558"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F2-anjing-yang-nakal%2Fanjing-yang-nakal.jpg?alt=media&token=12da8c55-449d-4809-9b25-f939568f0c7b",
 	"author": "Aesop",
 	"createat" : "1653660850896"
 	
@@ -31,16 +45,26 @@
 	"id"	: "3",
 	"title" : "Dongeng Ayam Yang Berkelahi dan Burung Elang",
 	"story"	: [{
-		"line1" : "Di suatu daerah pertanian, hiduplah dua ekor ayam jantan yang saling bermusuhan dan sering berkelahi antara keduanya.",
-		"line2" : "Pada suatu hari, mereka memulai pertengkaran dan kembali berkelahi, saling mematuk dan mencakar.",
-		"line3" : "Mereka berkelahi terus hingga salah satunya di kalahkan dan lari menjauh ke sudut untuk bersembunyi.",
-		"line4" : "Ayam jantan yang memenangkan perkelahian itu dengan bangganya terbang ke atas atap kandang, dan mengkepak-kepakkan sayapnya, berkokok dengan sangat bangga dan kerasnya",
-		"line5" : "seolah-olah dia ingin memberi tahukan ke seluruh dunia tentang kemenangannya. Tetapi saat itu seekor burung elang yang terbang di udara mendengar   dan akhirnya melihat ayam tersebut di atas atap.",
-		"line6" : "Burung elang tersebut akhirnya turun dan menyambar dan menerkam ayam jantan yang jadi pemenang tadi untuk dibawa ke sarangnya.",
-		"line7" : "Ayam yang satunya yang tadinya dikalahkan, melihat seluruh kejadian itu dan keluar dari tempat persembunyiannya dan mengambil tempat sebagai pemenang di perkelahian tadi.",
-		"line8" : "Jadi pembelajaran yang dapat kita teladani dari dongeng ayam yang berkelahi dan burung elang ini adalah Janganlah bersikap sombong karena kesombongan dapat berakibat keterpurukan." 
-	}], 
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fayam-berkelahi-dan-burung-elang.jpg?alt=media&token=b3667bcf-f3d0-47b9-ad09-7c14d5371561",
+						"line1" : "Di suatu daerah pertanian, hiduplah dua ekor ayam jantan yang saling bermusuhan dan sering berkelahi antara keduanya.",
+						"line2" : "Pada suatu hari, mereka memulai pertengkaran dan kembali berkelahi, saling mematuk dan mencakar.",
+						"line3" : "Mereka berkelahi terus hingga salah satunya di kalahkan dan lari menjauh ke sudut untuk bersembunyi.",
+						"line4" : "Ayam jantan yang memenangkan perkelahian itu dengan bangganya terbang ke atas atap kandang, dan mengkepak-kepakkan sayapnya, berkokok dengan sangat bangga dan kerasnya",
+						"line5" : "seolah-olah dia ingin memberi tahukan ke seluruh dunia tentang kemenangannya. Tetapi saat itu seekor burung elang yang terbang di udara mendengar   dan akhirnya melihat ayam tersebut di atas atap.",
+						"line6" : "Burung elang tersebut akhirnya turun, menyambar, dan menerkam ayam jantan yang jadi pemenang tadi untuk dibawa ke sarangnya.",
+						"line7" : "Ayam satunya yang tadinya dikalahkan, melihat seluruh kejadian itu lalu keluar dari tempat persembunyiannya dan mengambil tempat sebagai pemenang di perkelahian tadi.",
+						"line8" : "Jadi, pembelajaran yang dapat kita teladani dari dongeng ayam yang berkelahi dan burung elang ini adalah Janganlah bersikap sombong karena kesombongan dapat berakibat keterpurukan." 
+					}], 
+	"audio"	: [{
+						"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline1-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=282698e3-4c1d-49ef-816a-bec1aee0119e",
+						"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline2-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=d66dd144-4e78-495f-b45d-d6dd63689b80",
+						"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline3-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=497bdab4-0045-4502-ba10-b4b845a59d34",
+						"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline4-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=5ff8b60c-8149-47f3-9f14-5db030748b5f",
+						"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline5-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=46aeb1ef-f008-4ac0-adc6-289a814f5651",
+						"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline6-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=200ac222-02f6-430b-99ec-73777baa9bb4",
+						"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline7-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=4dd43763-caf1-4bd0-a3de-9499398b099c",
+						"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fline8-ayam-berkelahi-dan-burung-elang.mp3?alt=media&token=c8d2abea-501f-4ae1-86a7-cf38032dfcf1"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F3-ayam-berkelahi-dan-burung-elang%2Fayam-berkelahi-dan-burung-elang.jpg?alt=media&token=0f5bc7fc-6746-4017-8823-b90fda5e6a0f",
 	"author": "Aesop",
 	"createat" : "1653660850896"
 	
@@ -49,17 +73,28 @@
 	"id"	: "4",
 	"title" : "Dongeng Babi Hutan dan Rubah",
 	"story"	: [{
-		"line1" : "Pada suatu hari seekor babi hutan sedang sibuk mengasah taringnya pada sebuah batang pohon.",
-		"line2" : "Bertepatan dengan saat itu, secara kebetulan lewatlah seekor rubah. ",
-		"line3" : "Rubah yang suka mengolok-olok teman-teman dan tetangganya, langsung mengoloknya dengan berpura-pura melihat kesana-kemari, seolah-olah takut pada musuh yang tidak terlihat.",
-		"line4" : "Tetapi sang Babi Hutan tidak memperdulikan tingkah sang Rubah dan tetap melanjutkan pekerjaannya.",
-		"line5" : "\"Mengapa engkau melakukan hal tersebut?\" kata sang Rubah dengan senyum mengejek. \"Saya tidak melihat ada musuh dan bahaya di sini.\"",
-		"line6" : "\"Kamu benar, memang sekarang tidak ada musuh dan bahaya yang mengancam\" jawab sang Babi Hutan,",
-		"line7" : " \"tetapi ketika musuh benar-benar datang, saya tidak akan sempat mengasah taring saya lagi seperti sekarang.",
-		"line8" : "Saat musuh dan bahaya datang ke sini nantinya, setidak-tidaknya saya telah memiliki senjata untuk menghadapinya.\"",
-		"line9" : "Jadi pembelajaran yang dapat kita teladani dari dongeng babi hutan dan rubah ini adalah Selalulah siap siaga dan waspada."  
-	}], 
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbabi-hutan-dan-rubah.jpg?alt=media&token=31548139-d197-430b-887b-a750ff2e9104",
+					"line1" : "Pada suatu hari seekor babi hutan sedang sibuk mengasah taringnya pada sebuah batang pohon.",
+					"line2" : "Bertepatan dengan saat itu, secara kebetulan lewatlah seekor rubah. ",
+					"line3" : "Rubah yang suka mengolok-olok teman-teman dan tetangganya, langsung mengoloknya dengan berpura-pura melihat kesana-kemari, seolah-olah takut pada musuh yang tidak terlihat.",
+					"line4" : "Tetapi sang Babi Hutan tidak mempedulikan tingkah sang Rubah dan tetap melanjutkan pekerjaannya.",
+					"line5" : "\"Mengapa engkau melakukan hal tersebut?\" kata sang Rubah dengan senyum mengejek. \"Saya tidak melihat ada musuh dan bahaya di sini.\"",
+					"line6" : "\"Kamu benar, memang sekarang tidak ada musuh dan bahaya yang mengancam\" jawab sang Babi Hutan,",
+					"line7" : " \"tetapi ketika musuh benar-benar datang, saya tidak akan sempat mengasah taring saya lagi seperti sekarang. ",
+					"line8" : "Saat musuh dan bahaya datang ke sini nantinya, setidaknya saya telah memiliki senjata untuk menghadapinya.\"",
+					"line9" : "Jadi, pembelajaran yang dapat kita teladani dari dongeng babi hutan dan rubah ini adalah Selalulah siap siaga dan waspada."  
+					}], 
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline1-babi-hutan-dan-rubah.mp3?alt=media&token=5db122d7-9dc4-4c2b-b92e-732e0d3ad3ec",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline2-babi-hutan-dan-rubah.mp3?alt=media&token=81579dd4-68fb-4778-81e8-8001bd61ecfb",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline3-babi-hutan-dan-rubah.mp3?alt=media&token=ebca969c-3425-4ae9-a421-c0b9883d8674",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline4-babi-hutan-dan-rubah.mp3?alt=media&token=62713c51-551a-4aa7-b1c5-3c6c97cec881",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline5-babi-hutan-dan-rubah.mp3?alt=media&token=2a9bf5f1-c1d7-4a5c-8e1f-e1c945e206db",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline6-babi-hutan-dan-rubah.mp3?alt=media&token=9ea5c03d-a36f-4963-a1f1-6669a9598e1e",
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline7-babi-hutan-dan-rubah.mp3?alt=media&token=b8d6eeba-799c-4438-a382-333969d7c877",
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline8-babi-hutan-dan-rubah.mp3?alt=media&token=a35b013f-87e1-486d-9db2-2d5abba2c65c",
+					"audio9" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fline9-babi-hutan-dan-rubah.mp3?alt=media&token=3effe8ac-e3b3-4653-8d96-6b81a6759733"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F4-babi-hutan-dan-rubah%2Fbabi-hutan-dan-rubah.jpg?alt=media&token=37a2fa71-8534-4ecd-9fe1-6d716fbea023",
 	"author": "Aesop",
 	"createat" : "1653661329197"
 	
@@ -68,23 +103,40 @@
 	"id"	: "5",
 	"title" : "Dongeng Biji Pohon Oak Dan Labu",
 	"story"	: [{
-		"line1" : "Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya saya tidak perlu mengelilingi dunia untuk mencarinya,",
-		"line2" : "Saya dapat menemukan kesempurnaan itu di dalam sebuah labu. ",
-		"line3" : "Seorang petani yang tinggal di desa suatu saat berpikir tentang besarnya sebuah labu dan kecilnya batang dimana labu tersebut tumbuh.",
-		"line4" : "\"Apa yang Tuhan pikirkan kira-kira ya?\" katanya pada diri sendiri.",
-		"line5" : "\"Tuhan mungkin menumbuhkan labu tersebut di batang yang kurang sesuai. Seandainya saya yang menciptakan labu ini, saya akan menumbuhkan dan menggantungnya di pohon oak.",
-		"line6" : "Seharusnya disanalah tempat yang tepat. Buah yang besar, sepantasnya berasal dari pohon yang besar! sayang sekali!\"  katanya kepada diri sendiri,",
-		"line7" : "\"Sebagai contoh, biji pohon oak ini, yang sekecil jari tangan saya, seharusnya di gantungkan pada batang labu yang kurus ini.\"",
-		"line8" : "Karena terlalu banyak berpikir dan berangan-angan, petani tersebut menjadi mengantuk dan berbaring di bawah pohon Oak, dan tidak berapa lama kemudian,",
-		"line9" : "dia tertidur dengan pulas.Saat itulah sebuah biji pohon oak jatuh tepat di atas hidungnya.",
-		"line10" : "Petani itu terkejut dan terbangun dari tidurnya sambil mengusap hidungnya yang kesakitan dan mengeluarkan darah.",
-		"line11" : "\"Aduh.. aduh..!' teriaknya, 'Hidungku berdarah, bagaimana seandainya sesuatu yang lebih berat jatuh dari pohon ini dan menimpa kepala saya,",
-		"line12" : " bagaimana seandainya biji pohon oak ini adalah sebuah labu? Saya tadinya meragukan ciptaanNya, sekarang saya telah mengerti semuanya dengan sempurna.\"",
-		"line13" : "Lalu sang Petani itupun memuji dan bersyukur kepada Tuhan sambil berjalan pulang ke rumahnya.",
-		"line14" : "Jadi pembelajaran yang dapat kita teladani dari dongeng biji pohon oak dan labu ini adalah ",
-		"line15" : "Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya kita hanya perlu melihat, mendengar dan merasakan kebesaran-NYA. "    
-	}],
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbiji-pohon-oak-dan-labu.jpg?alt=media&token=e6e1f3a9-e6b6-4f1a-89ed-9ef10a7b3ecc",
+					"line1" : "Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya saya tidak perlu mengelilingi dunia untuk mencarinya,",
+					"line2" : "Saya dapat menemukan kesempurnaan itu di dalam sebuah labu. ",
+					"line3" : "Seorang petani yang tinggal di desa suatu saat berpikir tentang besarnya sebuah labu dan kecilnya batang dimana labu tersebut tumbuh.",
+					"line4" : "\"Apa yang Tuhan pikirkan kira-kira ya?\" katanya pada diri sendiri.",
+					"line5" : "\"Tuhan mungkin menumbuhkan labu tersebut di batang yang kurang sesuai. Seandainya saya yang menciptakan labu ini, saya akan menumbuhkan dan menggantungnya di pohon oak.",
+					"line6" : "Seharusnya disanalah tempat yang tepat. Buah yang besar, sepantasnya berasal dari pohon yang besar! sayang sekali!\" katanya kepada diri sendiri,",
+					"line7" : "\"Sebagai contoh, biji pohon oak ini, yang sekecil jari tangan saya, seharusnya di gantungkan pada batang labu yang kurus ini.\"",
+					"line8" : "Karena terlalu banyak berpikir dan berangan-angan, petani tersebut menjadi mengantuk dan berbaring di bawah pohon Oak, dan tidak berapa lama kemudian, dia tertidur dengan pulas.",
+					"line9" : "Saat itulah sebuah biji pohon oak jatuh tepat di atas hidungnya.",
+					"line10" : "Petani itu terkejut dan terbangun dari tidurnya sambil mengusap hidungnya yang kesakitan dan mengeluarkan darah.",
+					"line11" : "\"Aduh.. aduh..!\" teriaknya, \"Hidungku berdarah, bagaimana seandainya sesuatu yang lebih berat jatuh dari pohon ini dan menimpa kepala saya,",
+					"line12" : " bagaimana seandainya biji pohon oak ini adalah sebuah labu? Saya tadinya meragukan ciptaanNya, sekarang saya telah mengerti semuanya dengan sempurna.\"",
+					"line13" : "Lalu sang Petani itupun memuji dan bersyukur kepada Tuhan sambil berjalan pulang ke rumahnya.",
+					"line14" : "Jadi pembelajaran yang dapat kita teladani dari dongeng biji pohon oak dan labu ini adalah ",
+					"line15" : "Semua yang diciptakan oleh Tuhan adalah sempurna, untuk membuktikannya kita hanya perlu melihat, mendengar, dan merasakan kebesaran-NYA. "    
+					}],
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline1-biji-pohon-oak-dan-labu.mp3?alt=media&token=00c9ca7a-d09c-4147-9389-2b598cf370fc",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline2-biji-pohon-oak-dan-labu.mp3?alt=media&token=64389012-2a3f-4ab2-9d3e-bb67b9470bc4",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline3-biji-pohon-oak-dan-labu.mp3?alt=media&token=5ee1ff48-4ab9-4887-a65c-9dca1f5d527f",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline4-biji-pohon-oak-dan-labu.mp3?alt=media&token=c14e506f-19ba-46ad-a01f-d7bf98ae9d54",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline5-biji-pohon-oak-dan-labu.mp3?alt=media&token=3d8e8737-9517-4d3c-a620-c0a7ef1fbd4a",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline6-biji-pohon-oak-dan-labu.mp3?alt=media&token=72e86f79-5097-410e-bd54-640245d835be",
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline7-biji-pohon-oak-dan-labu.mp3?alt=media&token=f4bc2fbe-643d-40b5-b1da-c0f752b0a4fd",
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline8-biji-pohon-oak-dan-labu.mp3?alt=media&token=69d3797d-34e8-4311-aa86-705642fd9cd6",
+					"audio9" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline9-biji-pohon-oak-dan-labu.mp3?alt=media&token=8138793a-fe48-49c5-8d06-47addee97a75",
+					"audio10" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline10-biji-pohon-oak-dan-labu.mp3?alt=media&token=9b20c633-4c60-4bd5-b311-5b0566b402ff",
+					"audio11" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline11-biji-pohon-oak-dan-labu.mp3?alt=media&token=162e757d-073f-433b-9b85-4f79dd0c8135",
+					"audio12" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline12-biji-pohon-oak-dan-labu.mp3?alt=media&token=98d78562-b1a6-421f-a309-81f5751ec735",
+					"audio13" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline13-biji-pohon-oak-dan-labu.mp3?alt=media&token=4650b66e-b737-4abf-a18e-bce4b11772bc",
+					"audio14" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline14-biji-pohon-oak-dan-labu.mp3?alt=media&token=897e0366-c8cd-4640-83ab-d3174cf0cd28",
+					"audio15" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fline15-biji-pohon-oak-dan-labu.mp3?alt=media&token=1c91b90d-c0f7-4857-a996-65502e58dc92"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F5-biji-pohon-oak-dan-labu%2Fbiji-pohon-oak-dan-labu.jpg?alt=media&token=67cf9a0a-2bc3-48bc-8788-9087466a11de",
 	"author": "Jean de La Fontaine",
 	"createat" : "1653661329197"
 	
@@ -93,17 +145,26 @@
 	"id"	: "6",
 	"title" : "Dongeng Banteng Yang Berkelahi dan Katak di Rawa-rawa",
 	"story"	: [{
-		"line1" : "Pada suatu hari dua ekor banteng berkelahi dengan sengitnya di dekat suatu rawa-rawa. ",
-		"line2" : "Katak tua yang hidup di rawa-rawa menjadi gemetar ketakutan saat melihat perkelahian sengit itu. ",
-		"line3" : "\"Apa yang kamu takutkan?\" kata katak yang masih muda. ",
-		"line4" : "\"Tidakkah kamu melihat,\" balas sang Katak Tua,",
-		"line5" : "\"bahwa banteng yang kalah akan terdorong menuju ke rawa-rawa di sini, dan kita semua akan terinjak sampai masuk ke dalam lumpur?\"",
-		"line6" : "Benar apa kata sang Katak Tua itu, tidak berapa lama kemudian, banteng yang kalah terdorong sampai ke rawa-rawa, ",
-		"line7" : "dan telapak kakinya yang besar dan keras tanpa sengaja menginjak beberapa katak di rawa-rawa tersebut hingga tewas. ",
-		"line8" : "Jadi pembelajaran yang dapat kita teladani dari dongeng banteng yang berkelahi dan katak di rawa-rawa ini adalah ",
-		"line9" : "Hindarilah perkelahian dan janganlah terlibat dalam perkelahian karena damai itu jauh lebih indah. "
-	}],
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fbanteng-berkelahi-dan-katak-di-rawa-rawa.jpg?alt=media&token=e902873b-59a7-4a86-9c27-256d883feeb0",
+					"line1" : "Pada suatu hari, dua ekor banteng berkelahi dengan sengitnya di dekat rawa-rawa. ",
+					"line2" : "Katak tua yang hidup di rawa-rawa menjadi gemetar ketakutan saat melihat perkelahian sengit itu. ",
+					"line3" : "\"Apa yang kamu takutkan?\" kata katak yang masih muda. ",
+					"line4" : "\"Tidakkah kamu melihat,\" balas sang Katak Tua, \"bahwa banteng yang kalah akan terdorong menuju ke rawa-rawa di sini, dan kita semua akan terinjak sampai masuk ke dalam lumpur?\"",
+					"line5" : "Benar apa kata sang Katak Tua itu, tidak berapa lama kemudian, banteng yang kalah terdorong sampai ke rawa-rawa, ",
+					"line6" : "dan telapak kakinya yang besar dan keras tanpa sengaja menginjak beberapa katak di rawa-rawa tersebut hingga tewas. ",
+					"line7" : "Jadi pembelajaran yang dapat kita teladani dari dongeng banteng yang berkelahi dan katak di rawa-rawa ini adalah ",
+					"line8" : "Hindarilah perkelahian dan janganlah terlibat dalam perkelahian karena damai itu jauh lebih indah. "
+					}],
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline1-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=3cd11ca0-2466-4cf7-9f35-112ebacb701f",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline2-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=a94dc5c3-1d1e-4e21-8ca0-fc9ef2b96875",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline3-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=4dd2e7f2-9a9b-4ae7-b72a-8547545d72ac",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline4-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=e4106425-0cc1-4612-bbdd-9143b5853dc9",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline5-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=250c0c19-1987-4f13-8f9a-b4a7fa4fd79f",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline6-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=6e067b94-21d0-4d65-a745-5afbcd97ce67",
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline7-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=d43c25d8-df06-4dda-8307-48b7f4a5135c",
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fline8-banteng-berkelahi-dan-katak-di-rawa.mp3?alt=media&token=f1c62d5e-65b0-4921-87a0-aaaa2bfc84b5"	
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F6-banteng-berkelahi-dan-katak-di-rawa%2Fbanteng-berkelahi-dan-katak-di-rawa-rawa.jpg?alt=media&token=e389ae70-9372-4f84-b3b5-af1c41ff331f",
 	"author": "Aesop",
 	"createat" : "1653662400315"
 	
@@ -112,19 +173,26 @@
 	"id"	: "7",
 	"title" : "Dongeng Anak Kambing dan Serigala",
 	"story"	: [{
-		"line1" : "Pada suatu hari seekor anak kambing yang sangat lincah telah ditinggalkan oleh penggembalanya di atas atap jerami kandang untuk menghindari anak kambing itu dari bahaya.",
-		"line2" : "Anak kambing itu mencari rumput di pinggir atap, dan saat itu dia melihat seekor serigala dan memandang serigala itu dengan raut muka yang penuh dengan ejekan ",
-		"line3" : "dan dengan perasaan yang penuh kemenangan, dia mulai mengejek serigala tersebut, ",
-		"line4" : "walaupun pada saat itu dia tidak ingin mengejek sang Serigala, ",
-		"line5" : "tetapi karena dia merasa serigala tersebut tidak akan dapat naik ke atas atap dan menangkapnya, ",
-		"line6" : "timbullah keberaniannya untuk mengejek. Serigala itupun menatap anak kambing itu dari bawah, ",
-		"line7" : "\"Saya mendengarmu,\" kata sang Serigala, ",
-		"line8" : "\"dan saya tidak mendendam pada apa yang kamu katakan atau kamu lakukan ketika kamu diatas sana, ",
-		"line9" : "karena itu adalah atap yang berbicara dan bukan kamu.\"",
-		"line10" : "Jadi pembelajaran yang dapat kita teladani dari dongeng anak kambing dan serigala ini adalah",
-		"line11" : "Janganlah kamu mengatakan sesuatu yang buruk atau kasar kepada siapapun. "
-	}],
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fanak-kambing-dan-serigala.jpg?alt=media&token=ad13f406-38c1-4abf-8c02-01f9057ac3fa",
+					"line1" : "Pada suatu hari, seekor anak kambing yang sangat lincah telah ditinggalkan oleh penggembalanya di atas atap jerami kandang untuk menghindari anak kambing itu dari bahaya.",
+					"line2" : "Anak kambing itu mencari rumput di pinggir atap, dan saat itu dia melihat seekor serigala dan memandang serigala itu dengan raut muka yang penuh dengan ejekan ",
+					"line3" : "dan dengan perasaan yang penuh kemenangan, dia mulai mengejek serigala tersebut, walaupun pada saat itu dia tidak ingin mengejek sang Serigala,",
+					"line4" : "tetapi karena dia merasa serigala tersebut tidak akan dapat naik ke atas atap dan menangkapnya, timbullah keberaniannya untuk mengejek. ",
+					"line5" : "Serigala itupun menatap anak kambing itu dari bawah, \"Saya mendengarmu,\" kata sang Serigala, ",
+					"line6" : "\"dan saya tidak mendendam pada apa yang kamu katakan atau kamu lakukan ketika kamu diatas sana, karena itu adalah atap yang berbicara dan bukan kamu.\"",
+					"line7" : "Jadi pembelajaran yang dapat kita teladani dari dongeng anak kambing dan serigala ini adalah ",
+					"line8" : "Janganlah kamu mengatakan sesuatu yang buruk atau kasar kepada siapapun. "
+					}],
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline1-anak-kambing-dan-serigala.mp3?alt=media&token=ee9975e7-3c7a-41a4-bee7-aee77af3c729",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline2-anak-kambing-dan-serigala.mp3?alt=media&token=09ada354-f1f3-4e37-ac2e-feeaf5c71582",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline3-anak-kambing-dan-serigala.mp3?alt=media&token=a796538b-8492-4a12-957b-2545b5ec28fb",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline4-anak-kambing-dan-serigala.mp3?alt=media&token=33132c37-0c00-4c8e-a701-54cf9977e68e",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline5-anak-kambing-dan-serigala.mp3?alt=media&token=0b077bd3-ad6a-4a0a-8529-ab9d11094b59",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline6-anak-kambing-dan-serigala.mp3?alt=media&token=73835558-a823-4a04-aec0-05aee6fc65ed",
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline7-anak-kambing-dan-serigala.mp3?alt=media&token=f7ff682d-f626-469a-a9ab-1a0dde712364",						
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fline8-anak-kambing-dan-serigala.mp3?alt=media&token=407e4788-872b-4f86-8af1-0edfce0cc82e"
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F7-anak-kambing-dan-serigala%2Fanak-kambing-dan-serigala.jpg?alt=media&token=d09b455e-8008-40c5-b59b-f84d2a344a96",
 	"author": "Aesop",
 	"createat" : "1653662400315"
 	
@@ -133,20 +201,28 @@
 	"id"	: "8",
 	"title" : "Dongeng Angsa dan Telur Emas",
 	"story"	: [{
-		"line1" : "Pada zaman dahulu kala, ada seorang petani yang memiliki seekor angsa yang sangatlah cantik, ",
-		"line2" : "dimana setiap hari ketika petani tersebut mendatangi kandang angsa, sang Angsa telah menelurkan sebuah telur emas yang berkilauan.",
-		"line3" : "Petani tersebut mengambil dan membawa telur-telur emas tersebut ke pasar dan menjualnya ",
-		"line4" : "sehingga dalam waktu yang singkat petani tersebut mulai menjadi kaya. ",
-		"line5" : "Tetapi tidak lama kemudian keserakahan dan ketidak-sabaran petani itu terhadap sang Angsa muncul karena sang Angsa hanya memberikan sebuah telur setiap hari. ",
-		"line6" : "Sang Petani merasa dia tidak akan cepat menjadi kaya dengan cara begitu. ",
-		"line7" : "Suatu hari, setelah menghitung uangnya, sebuah gagasan muncul di kepala petani, ",
-		"line8" : "gagasan bahwa dia akan mendapatkan semua telur emas sang Angsa sekaligus dengan cara memotong sang Angsa. ",
-		"line9" : "Tetapi ketika gagasan tersebut dilaksanakan, tidak ada sebuah telur yang dapat dia temukan, dan angsanya yang sangat berharga terlanjur mati dipotong. ",
-		"line10" : "Jadi pembelajaran yang dapat kita teladani dari dongeng angsa dan telur emas ini adalah ",
-		"line11" : " Barang siapa yang telah memiliki sesuatu dengan berlimpah, tetapi serakah dan menginginkan yang lebih lagi, ",
-		"line12" : " maka akan kehilangan semua yang dimilikinya. Maka bersyukurlah dengan segala sesuatu yang kita miliki."
-	}],
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fangsa-dan-telur-emas.jpg?alt=media&token=a4f256da-16e3-431d-90ba-d128e717c222",
+					"line1" : "Pada zaman dahulu kala, ada seorang petani yang memiliki seekor angsa yang sangatlah cantik, ",
+					"line2" : "dimana setiap hari ketika petani tersebut mendatangi kandang angsa, sang Angsa telah menelurkan sebuah telur emas yang berkilauan. ",
+					"line3" : "Petani tersebut mengambil dan membawa telur-telur emas tersebut ke pasar dan menjualnya, sehingga dalam waktu yang singkat petani tersebut mulai menjadi kaya. ",
+					"line4" : "Tetapi tidak lama kemudian, keserakahan dan ketidak-sabaran petani itu terhadap sang Angsa muncul, karena sang Angsa hanya memberikan sebuah telur setiap hari. ",
+					"line5" : "Sang Petani merasa dia tidak akan cepat menjadi kaya dengan cara begitu. Suatu hari, setelah menghitung uangnya, sebuah gagasan muncul di kepala petani, ",
+					"line6" : "gagasan bahwa dia akan mendapatkan semua telur emas sang Angsa sekaligus dengan cara memotong sang Angsa. ",
+					"line7" : "Tetapi ketika gagasan tersebut dilaksanakan, tidak ada sebuah telur yang dapat dia temukan, dan angsanya yang sangat berharga terlanjur mati dipotong. ",
+					"line8" : "Jadi, pembelajaran yang dapat kita teladani dari dongeng angsa dan telur emas ini adalah ",
+					"line9" : "Barang siapa yang telah memiliki sesuatu dengan berlimpah, tetapi serakah dan menginginkan yang lebih lagi, maka akan kehilangan semua yang dimilikinya. Maka bersyukurlah dengan segala sesuatu yang kita miliki."
+					}],
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline1-angsa-dan-telur-emas.mp3?alt=media&token=92ad03bc-88ec-49fc-9c4b-ddba12444bd3",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline2-angsa-dan-telur-emas.mp3?alt=media&token=21b9930e-51d1-462a-9ce4-2a1a92ba022b",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline3-angsa-dan-telur-emas.mp3?alt=media&token=fd4e225a-577b-422b-8dbe-a8d631002e08",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline4-angsa-dan-telur-emas.mp3?alt=media&token=ab825740-efa0-456a-9d62-c3baf08a89b7",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline5-angsa-dan-telur-emas.mp3?alt=media&token=5954b9f7-3439-47bc-8d18-540a9106e00d",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline6-angsa-dan-telur-emas.mp3?alt=media&token=32c8b200-f107-46cd-a32d-04b2041d3c01",						
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline7-angsa-dan-telur-emas.mp3?alt=media&token=3c3ea62c-54fd-4126-aa1e-15f09a399000",
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline8-angsa-dan-telur-emas.mp3?alt=media&token=1825dabc-818a-4c72-be3a-f9a2607f018d",
+					"audio9" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fline9-angsa-dan-telur-emas.mp3?alt=media&token=14efc3eb-37fb-4ce7-b805-cf001f164347"		
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F8-angsa-dan-telur-emas%2Fangsa-dan-telur-emas.jpg?alt=media&token=06b7b3be-4035-49db-999e-89d582710e02",
 	"author": "Aesop",
 	"createat" : "1653662424347"
 	
@@ -155,20 +231,30 @@
 	"id"	: "9",
 	"title" : "Dongeng Burung Gagak dan Sebuah Kendi",
 	"story"	:  [{
-		"line1" : "Pada suatu musim yang sangat kering, dimana saat itu burung-burungpun sangat sulit mendapatkan sedikit air untuk diminum, ",
-		"line2" : "seekor burung gagak menemukan sebuah kendi yang berisikan sedikit air. ",
-		"line3" : "Tetapi kendi tersebut merupakan sebuah kendi yang tinggi dengan leher kendi sempit. ",
-		"line4" : "Bagaimanapun burung gagak tersebut berusaha untuk mencoba meminum air yang berada dalam kendi, dia tetap tidak dapat mencapainya. ",
-		"line5" : "Burung gagak tersebut hampir merasa putus asa dan merasa akan meninggal karena kehausan. ",
-		"line6" : "Kemudian tiba-tiba sebuah ide muncul dalam benaknya. ",
-		"line7" : "Dia lalu mengambil kerikil yang ada di samping kendi, kemudian menjatuhkannya ke dalam kendi satu persatu. ",
-		"line8" : "Setiap kali burung gagak itu memasukkan kerikil ke dalam kendi, ",
-		"line9" : "permukaan air dalam kendipun berangsur-angsur naik dan bertambah tinggi hingga akhirnya air tersebut dapat di capai oleh sang burung Gagak.  ",
-		"line10" : "Jadi pembelajaran yang dapat kita teladani dari dongeng burung gagak dan sebuah kendi ini adalah ",
-		"line11" : " Janganlah putus asa dan berusahalah dengan pengetahuan dan akal yang kita miliki."
-
-	}],
-	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2Fburung-gagak-dan-sebuah-kendi.jpg?alt=media&token=d62f0fea-2e9d-413f-ae08-033d68cfae51",
+					"line1" : "Pada suatu musim yang sangat kering, dimana saat itu para burung pun sangat sulit mendapatkan sedikit air untuk diminum, ",
+					"line2" : "seekor burung gagak menemukan sebuah kendi yang berisikan sedikit air. Tetapi kendi tersebut merupakan sebuah kendi yang tinggi dengan leher kendi sempit. ",
+					"line3" : "Bagaimanapun burung gagak tersebut berusaha untuk mencoba meminum air yang berada dalam kendi, dia tetap tidak dapat mencapainya. ",
+					"line4" : "Burung gagak tersebut hampir merasa putus asa dan merasa akan meninggal karena kehausan. ",
+					"line5" : "Kemudian tiba-tiba sebuah ide muncul dalam benaknya. ",
+					"line6" : "Dia lalu mengambil kerikil yang ada di samping kendi, kemudian menjatuhkannya ke dalam kendi satu persatu. ",
+					"line7" : "Setiap kali burung gagak itu memasukkan kerikil ke dalam kendi, ",
+					"line8" : "permukaan air dalam kendipun berangsur-angsur naik dan bertambah tinggi hingga akhirnya air tersebut dapat di capai oleh sang burung Gagak.  ",
+					"line9" : "Jadi pembelajaran yang dapat kita teladani dari dongeng burung gagak dan sebuah kendi ini adalah ",
+					"line10" : "Janganlah putus asa dan berusahalah dengan pengetahuan dan akal yang kita miliki. "
+					}],
+	"audio"	: [{
+					"audio1" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline1-burung-gagak-dan-kendi.mp3?alt=media&token=dd1059e2-8ae0-4ea3-b778-92d53550f38f",
+					"audio2" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline2-burung-gagak-dan-kendi.mp3?alt=media&token=b8a5058b-75ed-4da8-865b-55c1ad5d4542",
+					"audio3" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline3-burung-gagak-dan-kendi.mp3?alt=media&token=04b55354-2eb7-4180-a322-31cb8485761f",
+					"audio4" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline4-burung-gagak-dan-kendi.mp3?alt=media&token=6abd0efe-da73-4db5-a2a5-96f55ac45a1b",
+					"audio5" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline5-burung-gagak-dan-kendi.mp3?alt=media&token=ed4c0090-2755-47b1-bcd7-aca05cc7c2c0",
+					"audio6" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline6-burung-gagak-dan-kendi.mp3?alt=media&token=c141e283-fafe-4694-b415-b00d77f65169",						
+					"audio7" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline7-burung-gagak-dan-kendi.mp3?alt=media&token=a06c20c5-ce8e-4c9b-abff-ce25c9ed63e8",
+					"audio8" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline8-burung-gagak-dan-kendi.mp3?alt=media&token=d28cd80c-851c-47c3-a2f1-514f30804da5",
+					"audio9" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline9-burung-gagak-dan-kendi.mp3?alt=media&token=9ebc73ac-e89a-41e2-8c56-8443854c5a7c",
+					"audio10" : "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fline10-burung-gagak-dan-kendi.mp3.mp3?alt=media&token=316b3c59-e5fb-4e74-96d6-2388b19b3c87"			
+					}],
+	"image"	: "https://firebasestorage.googleapis.com/v0/b/alpaca-350506.appspot.com/o/cerita%2F9-burung-gagak-dan-kendi%2Fburung-gagak-dan-sebuah-kendi.jpg?alt=media&token=ada1febb-7f97-4300-b9ee-f5b401669f6e",
 	"author": "Aesop",
 	"createat" : "1653662445513"
 	
