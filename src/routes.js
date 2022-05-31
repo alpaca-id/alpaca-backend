@@ -2,6 +2,7 @@ const {
   getAllBooksHandler,
   getBookByIdHandler,
   getPredict,
+  upImage,
  
 } = require('./handler');
 
@@ -20,6 +21,11 @@ const routes = [
     method : 'POST',
     path: '/predict',
     handler: getPredict,
+  },
+  {
+    method : 'POST',
+    path: '/upload',
+    handler:upImage,
   },
   
 ];

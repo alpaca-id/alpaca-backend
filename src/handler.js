@@ -2,9 +2,7 @@ const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
 const tf = require("@tensorflow/tfjs");
-const textToSpeech = require('@google-cloud/text-to-speech');
-const fs = require('fs');
-const util = require('util');
+
 
 
 const getAllBooksHandler = (request, h) => {
@@ -24,7 +22,7 @@ const getAllBooksHandler = (request, h) => {
   
 
   const response = h.response({
-    status: 'success',
+    status: 'berhasil',
   data: {
     books : Filter.map((book)=>({
       'id': book.id,
@@ -43,24 +41,44 @@ const getAllBooksHandler = (request, h) => {
 const getBookByIdHandler = (request, h) => {
   const { id } = request.params;
 
+  
+
   const book = books.filter((n) => n.id === id)[0];
 
   if (book !== undefined) {
+
+    audio = book.story;
+
+    let convert = [];
+
+    audio.forEach((e) => {
+      convert.push(e);
+    });
+
     return {
-      status: 'success',
+      status: 'berhasil',
       data: {
         book,
+        convert,
       },
     };
     
   }
   const response = h.response({
-    status: 'fail',
+    status: 'gagal',
     message: 'Buku tidak ditemukan',
   });
   response.code(404);
   return response;
 };
+
+const upImage = () =>{
+
+  
+  return ;
+
+
+}
 
 const getPredict = (request, response, h) => {
 
@@ -83,4 +101,5 @@ module.exports = {
   getAllBooksHandler, 
   getBookByIdHandler,
   getPredict,
+  upImage,
 };
