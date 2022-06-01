@@ -1,6 +1,7 @@
 const textToSpeech = require('@google-cloud/text-to-speech');
 const fs = require('fs');
 const util = require('util');
+const uploadFile = require('./Upload');
 
 
 process.env.GOOGLE_APPLICATION_CREDENTIALS = "src/service-account.json";
@@ -24,9 +25,18 @@ async function converttoMP3(text) {
    const [response] = await client.synthesizeSpeech(request);
    // Write the binary audio content to a local file
    const writeFile = util.promisify(fs.writeFile);
-   return await writeFile(outputFile, response.audioContent, 'binary');
-   //console.log('Audio content written to file: ' + outputFile);
+   await writeFile(outputFile, response.audioContent, 'binary');
+
+   return await uploadFile(outputFile);
    
+
  }
+
+ // The ID of your GCS bucket
+
+//const filePath = './output.mp3'; // The path to your file to upload
+
+// Creates a client
+
   
  module.exports = converttoMP3;
