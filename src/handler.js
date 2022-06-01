@@ -3,7 +3,6 @@ const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
 const Predict = require('./Predict.js');
 const converttoMP3 = require('./TextToSpeech.js');
-const uploadFile = require('./Upload.js');
 
 const getAllBooksHandler = (request, h) => {
   
