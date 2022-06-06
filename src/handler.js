@@ -3,6 +3,10 @@ const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
 const Predict = require('./Predict.js');
 const converttoMP3 = require('./TextToSpeech.js');
+const tf = require("@tensorflow/tfjs");
+const fs = require('fs');
+const { tensor, buffer } = require('@tensorflow/tfjs');
+
 
 const getAllBooksHandler = (request, h) => {
   
@@ -28,7 +32,7 @@ const getAllBooksHandler = (request, h) => {
       'title': book.title,
       'image': book.image,
       'author': book.author,
-      'story' : book.story[0].line1,
+      'story' : book.story[0],
       'createdAt' : book.createat,
     })),
   },
@@ -79,20 +83,30 @@ const upload = async (request, h) => {
 };
 
 
-const getPredict = (request, h) => {
+const getPredict = (request) => {
 
-  const {data} = request.query;
-
-  data = data.split(',');
-  let df = [];
-
-  data.forEach((e) => {
-    df.push(parseInt(e));
-  });
-
-  Predict(df).then((pred) => {
-    h.status(200).send({ prob: pred[0] });
-  });
+  //const {data} = request.query; //http://localhost:5000/predict?data={your path here}
+  const path = './tes.jpg'
+  const imageSize = 32
+  const imageBuffer =  fs.readFileSync(path); 
+  console.log(imageBuffer);    
+    // can also use the async readFile instead
+    // get tensor out of the buffer
+    //image = tf.tensor3d()
+    //const image = tf.buffer(imageBuffer); 
+    //const buffer = image.toTensor()
+    //console.log(buffer);
+    //tf.node.decodeImage();
+    // dtype to float
+    //const dtype = tf.cast(buffer, 'float32');
+    //console.log(dtype);
+    // resize the image
+    //const resize = tf.image.resizeBilinear(dtype, size = [imageSize, imageSize]);
+    //console.log(resize); // can also use tf.image.resizeNearestNeighbor
+    //const axis = resize.expandDims(); // to add the most left axis of size 1
+    //console.log(axis);
+    const hasil = Predict(imageBuffer);
+    return hasil;
 };
 
 
