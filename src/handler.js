@@ -82,39 +82,9 @@ const upload = async (request, h) => {
 
 };
 
-
-const getPredict = (request) => {
-
-  //const {data} = request.query; //http://localhost:5000/predict?data={your path here}
-  const path = './tes.jpg'
-  const imageSize = 32
-  const imageBuffer =  fs.readFileSync(path); 
-  console.log(imageBuffer);    
-    // can also use the async readFile instead
-    // get tensor out of the buffer
-    //image = tf.tensor3d()
-    //const image = tf.buffer(imageBuffer); 
-    //const buffer = image.toTensor()
-    //console.log(buffer);
-    //tf.node.decodeImage();
-    // dtype to float
-    //const dtype = tf.cast(buffer, 'float32');
-    //console.log(dtype);
-    // resize the image
-    //const resize = tf.image.resizeBilinear(dtype, size = [imageSize, imageSize]);
-    //console.log(resize); // can also use tf.image.resizeNearestNeighbor
-    //const axis = resize.expandDims(); // to add the most left axis of size 1
-    //console.log(axis);
-    const hasil = Predict(imageBuffer);
-    return hasil;
-};
-
-
-
   
 module.exports = {  
   getAllBooksHandler, 
   getBookByIdHandler,
-  getPredict,
   upload,
 };

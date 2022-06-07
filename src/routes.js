@@ -1,7 +1,6 @@
 const { 
   getAllBooksHandler,
   getBookByIdHandler,
-  getPredict,
   upload,
  
 } = require('./handler');
@@ -16,11 +15,6 @@ const routes = [
     method: 'GET',
     path: '/books/{id}',
     handler: getBookByIdHandler,
-  },
-  {
-    method : 'GET',
-    path: '/predict',
-    handler: getPredict,
   },
   {
     method : 'GET',
