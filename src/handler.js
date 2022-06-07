@@ -1,11 +1,9 @@
 const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
 const books = require('./cerita/books.json');
-const Predict = require('./Predict.js');
 const converttoMP3 = require('./TextToSpeech.js');
-const tf = require("@tensorflow/tfjs");
 const fs = require('fs');
-const { tensor, buffer } = require('@tensorflow/tfjs');
+
 
 
 const getAllBooksHandler = (request, h) => {
