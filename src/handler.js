@@ -1,6 +1,6 @@
 const { response } = require('@hapi/hapi/lib/validation');
 const { nanoid } = require('nanoid');
-const books = require('./cerita/books.json');
+const books = require('./Cerita/books.json');
 const converttoMP3 = require('./TextToSpeech.js');
 const fs = require('fs');
 
