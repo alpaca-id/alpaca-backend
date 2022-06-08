@@ -32,11 +32,5 @@ async function converttoMP3(text) {
 
  }
 
- // The ID of your GCS bucket
-
-//const filePath = './output.mp3'; // The path to your file to upload
-
-// Creates a client
-
   
  module.exports = converttoMP3;
