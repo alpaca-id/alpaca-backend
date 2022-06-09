@@ -30,7 +30,7 @@ const getAllBooksHandler = (request, h) => {
       'title': book.title,
       'image': book.image,
       'author': book.author,
-      'story' : book.story[0],
+      'story' : book.story,
       'createdAt' : book.createat,
     })),
   },
